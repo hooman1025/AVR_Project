@@ -15,7 +15,7 @@
 #include "i2c.h"
 #include "sht20.h"
 #include "lcd.h"
-
+ 
 char buff[20] = { 0 };
 int index = 0;
 int flag = 0;
